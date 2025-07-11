@@ -1,0 +1,5 @@
+之间 python3 linux_chaizhuang_sensor.py启动即可
+
+
+用于传感器验证
+linux_chaizhuang_sensor.py
